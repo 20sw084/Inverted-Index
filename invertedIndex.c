@@ -1,4 +1,4 @@
-// COMP2521 Assignment 1 
+// COMP2521 Assignment 1  
 
 #include <assert.h>
 #include <ctype.h>
